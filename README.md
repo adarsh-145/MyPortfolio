@@ -1,4 +1,4 @@
-# Anurag Pandey's Portfolio
+# Adarsh Mishra's Portfolio
 
 Welcome to my portfolio! This is a showcase of my skills, projects, and experiences in the field of web development and data science.
 
