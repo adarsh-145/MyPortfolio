@@ -4,9 +4,9 @@ Welcome to my portfolio! This is a showcase of my skills, projects, and experien
 
 ## Live Demo
 
-Visit my portfolio at: [anuragpandey-portfolio.vercel.app](https://anuragpandey-portfolio.vercel.app/)
+Visit my portfolio at: https://portfolio-six-sigma-99.vercel.app/
 
-!https://drive.google.com/file/d/1QwOl9bnV7fXJUaHNwfv1cJALTS1VniXg/view?usp=sharing
+
 
 *Figure 1: A glimpse of my portfolio.*
 
@@ -31,5 +31,4 @@ To run this portfolio locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Anuragpandey0408/your-portfolio-repo.git
+  
